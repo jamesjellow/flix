@@ -26,4 +26,4 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="https://media.giphy.com/media/fAnUetHWa8mnBCwSxR/giphy.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+The main challenge was making the API call to the movie db since I forgot to add the "s" in "https". Additionally, creating the movie view controller cocoa touch class was bugging out so that cost me a little extra time. All in all, I'm happy with the turnout of this app and learned a lot! I'm especially happy with the view constraints I added in to make sure it works with all devices.
